@@ -1,0 +1,27 @@
+/*Richard Zhou*/
+
+Part1:
+
+Q1:Yes I can read and understand what it is supposed to do. This is because I now know where and how to allocate the memory.
+
+Q2: I think it is important to have sufficiently readable code. This is because it makes it easier to show others and when you need help they know what you are doing so they can help you. Also it allows for clear and consice debugging when there is no clutter in the code.
+
+Q3: One key difference was that in lab2, i used more variables where as in this one I could just change the same variable I wanted to return. Also in lab 2 I had used more global variables whereas for this one I used individual registers for different variables. Also certain calls can only be made with certain registers so I had to be aware of which registers I was using and when.
+
+Q4:I did not use a helper function in assembly. To be honest, this is because I am not that comfortable in assembly and thought it would be easier to simply have everything out and in front of me in a linear progression. The jumps made more sense when I could see everything on one screen rathere than seperate calls.
+
+Q5:done
+
+*Q6:I feel like it is more natural to manipulate bits in assembly. This is because the variable that you are manipulating stays the same variable. Whereas in C, you would need to set the variable that is being bit shifted to a new variable and the old one would not change.
+
+Part 2:
+
+Q1: This worked because my part was called main and the breakpoint would step into the function and go through it.
+
+Q2:done
+
+Q3:I saw a chart with all of th registers and my code with whichever line i was stepping on being highlighted. There is also a console to input commands for gdb.
+
+Q4: Yes you are by typing (n)ext or step
+
+Q5: Yes I could use a register command to print the value in the register and also delete breakpoints. I could also use the commands for running. So yes, I could use all of the commands.
